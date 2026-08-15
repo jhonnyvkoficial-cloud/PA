@@ -1,0 +1,33 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+
+        int num1, num2;
+        num1 = 100;
+        num2 = 10;
+
+        // - Comentario de 1 linha
+        /*
+             Comentario de muitas linhas
+         */
+
+             /*
+             > Maior que
+             < Menor que 
+             >= Maior ou igual
+             <= Menor ou igual
+             == (totalmente igual à)
+             != é diferente de
+
+             OBS: a saida sempre retorna Verdadeiro ou falso // True or False
+             
+             */
+
+             System.out.println(num1 > num2);
+             System.out.println(num1 < num2);
+             System.out.println(num1 >= num2);
+             System.out.println(num1 <= num2);
+             System.out.println(num1 == num2);
+             System.out.println(num1 != num2);
+    
+    }
+}
